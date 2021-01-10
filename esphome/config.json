@@ -41,7 +41,7 @@
   "slug": "esphome",
   "stage": "stable",
   "startup": "application",
-  "url": "https://esphome.io/",
+  "url": "https://github.com/SalexSun/esphome",
   "version": "1.15.3",
   "webui": "http://[HOST]:[PORT:6052]"
 }
